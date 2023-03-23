@@ -1,7 +1,12 @@
 # Emotion-Mining-with-NLTK
+  
+  #### Note: the base used is in portuguese language and nltk stemming method was used based on portuguese language too.
   First, a small base of multiple sentences with their emotions/classes was used. In this algorithm, the nltk algorithm was implemented in pre-processing and to  implement the Naive Beyes algorithm.
   The emotions that are featured in each sentence are based on the study of the main human emotions (happiness, sadness, fear, surprise, disgust and anger) by Paul Ekman.
+  
   ![image](https://user-images.githubusercontent.com/124091702/227231876-db962b1f-8794-4dbf-8813-cc266b428d2e.png)
+
+
 
 #### 1.Data Preprocessing
 Pre-processing is a crucial step for any data analysis and when it comes to text mining, the steps are essential in order for the Naive Bayes algorithm to behave correctly.
