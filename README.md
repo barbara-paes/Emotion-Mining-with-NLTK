@@ -1,5 +1,9 @@
 # Emotion-Mining-with-NLTK
-  
+
+> :construction: Projeto em construção :construction:
+
+
+
   #### Note: the base used is in portuguese language and nltk stemming method was used based on portuguese language too.
   First, a small base of multiple sentences with their emotions/classes was used. In this algorithm, the nltk algorithm was implemented in pre-processing and to  implement the Naive Beyes algorithm.
   The emotions that are featured in each sentence are based on the study of the main human emotions (happiness, sadness, fear, surprise, disgust and anger) by Paul Ekman.
